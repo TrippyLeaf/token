@@ -1,2 +1,2 @@
-# token
-Trippy Leaf Token
+# Trippy Leaf Token
+Info on Trippy Leaf Token
